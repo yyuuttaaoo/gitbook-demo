@@ -1,6 +1,12 @@
 # Table of contents
 
-* [What is iLogtail?](README.md)
+## 关于
+
+* [什么是iLogtail](README.md)
+* [发展历史](guan-yu/fa-zhan-li-shi.md)
+* [开源协议](guan-yu/kai-yuan-xie-yi.md)
+* [产品优势](guan-yu/chan-pin-you-shi.md)
+* [社区版和企业版的对比说明](guan-yu/she-qu-ban-he-qi-ye-ban-de-dui-bi-shuo-ming.md)
 
 ## Guides
 
